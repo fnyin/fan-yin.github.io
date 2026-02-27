@@ -6,7 +6,7 @@ project:
 
 website:
   title: "Fan Yin"
-  favicon: "/files/favicon.svg"
+  favicon: "files/favicon.svg"
   search: false
   google-analytics: 
     tracking-id: "G-ZRYLHTQ3PF"
