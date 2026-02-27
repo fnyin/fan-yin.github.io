@@ -10,7 +10,7 @@ format:
 ---
 
 ```{=html}
-<iframe src="/files/Grawe_CV_en.pdf#toolbar=0," width="100%" height="100%" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<iframe src="/files/Fan_Yin_CV.pdf#toolbar=0," width="100%" height="100%" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 ```
 
-You can download a PDF copy of my CV [here](/files/Grawe_CV_en.pdf){target="_blank"}.
+You can download a PDF copy of my CV [here](/files/Fan_Yin_CV.pdf){target="_blank"}.

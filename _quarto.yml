@@ -2,11 +2,10 @@ project:
   type: website
   output-dir: docs
   resources:
-    - bgiw_program.pdf
-    - Grawe_CV_en.pdf
+    - Fan_Yin_CV.pdf
 
 website:
-  title: "Alexander Grawe"
+  title: "Fan Yin"
   favicon: "/files/favicon-32x32.png"
   search: false
   google-analytics: 
@@ -24,22 +23,16 @@ website:
     
     right:
       - icon: envelope-at
-        href: mailto:agrawe@diw.de
+        href: mailto:fan.yin@hu-berlin.de
         target: _blank
-      - icon: github
-        href: https://github.com/agrawe
-        target: _blank
-      - icon: twitter
-        href: https://twitter.com/alex_grw
-        target: _blank
-      - icon: bluesky
-        href: https://bsky.app/profile/agrawe.eu
+      - icon: linkedin
+        href: https://www.linkedin.com/in/fan-yin-4b6481163
         target: _blank
 
   page-footer: 
     left:
       - icon: c-circle
-        text: 2026 Alexander Grawe
+        text: 2026 Fan Yin
 
 format:
   html:
