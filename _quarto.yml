@@ -3,11 +3,11 @@ project:
   output-dir: docs
   resources:
     - cv/cv_fan_yin.pdf
-    - files/favicon.ico
+    - files/favicon.png
 
 website:
   title: "Fan Yin"
-  favicon: "files/favicon.ico"
+  favicon: "files/favicon.png"
   search: false
   google-analytics: 
     tracking-id: "G-ZRYLHTQ3PF"
