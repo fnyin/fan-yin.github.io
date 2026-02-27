@@ -7,18 +7,18 @@ about:
   image-width: 15rem
 ---
 
-I am a PhD student at the [Berlin School of Economics](https://berlinschoolofeconomics.de "Berlin School of Economics") and Humboldt University. I obtained my Master's (Economics) and Bachelor's (Sociology) studies in University of Heidelberg.
+I am a PhD student at the [Berlin School of Economics](https://berlinschoolofeconomics.de "Berlin School of Economics") and [Humboldt University](https://www.hu-berlin.de/en){target="_blank"}. I obtained my Master's (Economics) and Bachelor's (Sociology) studies in University of Heidelberg.
 My interests are in spatial economics, urban economics, and economic history. 
 
 If you'd like to chat or grab a coffee, feel free to reach out anytime!
 
 ---
 
-**Contact**   
-Fan Yin  
-Humboldt-Universität zu Berlin
-Chair of Econometrics
-Spandauer Straße 1
-10178 Berlin  
+**Contact**<br>
+Fan Yin<br>
+Humboldt University<br>
+Chair of Econometrics<br>
+Spandauer Straße 1<br>
+10178 Berlin
 
 E-Mail: [fan.yin@hu-berlin.de](mailto:fan.yin@hu-berlin.de)  
