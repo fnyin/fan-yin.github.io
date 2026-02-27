@@ -2,11 +2,11 @@ project:
   type: website
   output-dir: docs
   resources:
-    - Fan_Yin_CV.pdf
+    - cv/cv_fan_yin.pdf
 
 website:
   title: "Fan Yin"
-  favicon: "/files/favicon-32x32.png"
+  favicon: "/files/favicon.svg"
   search: false
   google-analytics: 
     tracking-id: "G-ZRYLHTQ3PF"
