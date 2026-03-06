@@ -1,10 +1,43 @@
 ---
 title: "Fan Yin"
 image: files/photo.jpg
-about: 
+about:
   template: solana
   image-shape: round
   image-width: 15rem
+format:
+  html:
+    include-in-header:
+      text: |
+        <script type="application/ld+json">
+        {
+          "@context": "https://schema.org",
+          "@type": "Person",
+          "name": "Fan Yin",
+          "jobTitle": "PhD Student",
+          "affiliation": [
+            {
+              "@type": "Organization",
+              "name": "Berlin School of Economics",
+              "url": "https://berlinschoolofeconomics.de"
+            },
+            {
+              "@type": "Organization",
+              "name": "Humboldt University Berlin",
+              "url": "https://www.hu-berlin.de/en"
+            }
+          ],
+          "email": "fan.yin@hu-berlin.de",
+          "url": "https://agrawe.eu",
+          "knowsAbout": ["Spatial Economics", "Urban Economics", "Economic History"],
+          "alumniOf": [
+            {
+              "@type": "Organization",
+              "name": "University of Heidelberg"
+            }
+          ]
+        }
+        </script>
 ---
 
 I am a PhD student at the [Berlin School of Economics](https://berlinschoolofeconomics.de "Berlin School of Economics") and [Humboldt University](https://www.hu-berlin.de/en){target="_blank"}. I finished my Master's (Economics) and Bachelor's (Sociology) studies in University of Heidelberg.

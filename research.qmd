@@ -1,12 +1,14 @@
 ---
 title: "Research"
-format: 
+format:
   html:
     respect-user-color-scheme: true
-    include-in-header:
-      text: |
-        <meta name="robots" content="noindex">
 ---
 
 ## Work in Progress
-Price of Productivity, *with Gabriel Ahlfeldt, Stephan Heblich & Tobias Seidel*. [[Discussion Paper]](https://github.com/Ahlfeldt/DPs/blob/main/GA_SH_TS_FY_-_Productivity.pdf){target="_blank"}
+
+### Price of Productivity
+
+*with [Gabriel Ahlfeldt](https://www.ahlfeldt.com){target="_blank"}, Stephan Heblich & Tobias Seidel* &ensp;|&ensp; [[Discussion Paper]](https://github.com/Ahlfeldt/DPs/blob/main/GA_SH_TS_FY_-_Productivity.pdf){target="_blank"}
+
+*We construct a new micro-geographic commercial rent index for Germany to study the capitalization of agglomeration economies into floor space prices. In large local labor markets, commercial rents decline by \hl{\largellmGradient}\% per kilometer from the central business district, compared to 13\% for residential rents, reflecting stronger agglomeration benefits at the center. Commercial rents in central business districts increase with local labor market size at an elasticity of 15\%, implying that wage responses capture only about half of the agglomeration effect on total factor productivity.*
