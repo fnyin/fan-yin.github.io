@@ -38,14 +38,14 @@ format:
 
 ::: {}
 We construct a new micro-geographic commercial rent index for Germany to study the capitalization of agglomeration economies into floor space prices. In large local labor markets, commercial rents decline by 17\% per kilometer from the central business district, compared to 13\% for residential rents, reflecting stronger agglomeration benefits at the center. Commercial rents in central business districts increase with local labor market size at an elasticity of 15\%, implying that wage responses capture only about half of the agglomeration effect on total factor productivity.
-:::
-::::
 
 👉 Read the full [[Draft]](https://github.com/Ahlfeldt/DPs/blob/main/GA_SH_TS_FY_-_Productivity.pdf){target="_blank"}.
 
 👉 Or the [[BSoE Insight Piece]](https://berlinschoolofeconomics.de/insight/the-price-of-productivity){target="_blank"} for a short read.
 
 👉 Access the dataset for [[Germany Commercial Rent Index]](https://github.com/Ahlfeldt/AHSY-toolkit/tree/main/APPLICATIONS/GERMANY/DATA){target="_blank"} at postcode level from 2007 to 2024.
+:::
+::::
 
 ## Work in Progress
 

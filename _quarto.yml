@@ -12,6 +12,7 @@ website:
   search: false
   google-analytics: "G-J7ZMYNCBPC"
   navbar:
+    logo: files/favicon.svg
     left:
       - text: Home  
         href: index.qmd
