@@ -42,6 +42,8 @@ We construct a new micro-geographic commercial rent index for Germany to study t
 
 
 
+<br><br>
+
 👉 Read the full and most recent [[Draft]](https://github.com/Ahlfeldt/DPs/blob/main/GA_SH_TS_FY_-_Productivity.pdf){target="_blank"}.
 
 👉 Or the [[BSoE Insight Piece]](https://berlinschoolofeconomics.de/insight/the-price-of-productivity){target="_blank"} for a short (and fun) read.
