@@ -3,12 +3,34 @@ title: "Research"
 format:
   html:
     respect-user-color-scheme: true
+    include-in-header:
+      text: |
+        <script type="application/ld+json">
+        {
+          "@context": "https://schema.org",
+          "@type": "ScholarlyArticle",
+          "name": "Price of Productivity",
+          "author": [
+            {"@type": "Person", "name": "Gabriel Ahlfeldt", "url": "https://www.ahlfeldt.com"},
+            {"@type": "Person", "name": "Stephan Heblich"},
+            {"@type": "Person", "name": "Tobias Seidel"},
+            {"@type": "Person", "name": "Fan Yin", "url": "https://agrawe.eu"}
+          ],
+          "abstract": "We construct a new micro-geographic commercial rent index for Germany to study the capitalization of agglomeration economies into floor space prices. In large local labor markets, commercial rents decline per kilometer from the central business district, compared to 13% for residential rents, reflecting stronger agglomeration benefits at the center. Commercial rents in central business districts increase with local labor market size at an elasticity of 15%, implying that wage responses capture only about half of the agglomeration effect on total factor productivity.",
+          "url": "https://github.com/Ahlfeldt/DPs/blob/main/GA_SH_TS_FY_-_Productivity.pdf",
+          "sameAs": [
+            "https://berlinschoolofeconomics.de/insight/the-price-of-productivity"
+          ]
+        }
+        </script>
 ---
 
 ## Work in Progress
 
 ### Price of Productivity
 
-*with [Gabriel Ahlfeldt](https://www.ahlfeldt.com){target="_blank"}, Stephan Heblich & Tobias Seidel* &ensp;|&ensp; [[Discussion Paper]](https://github.com/Ahlfeldt/DPs/blob/main/GA_SH_TS_FY_-_Productivity.pdf){target="_blank"}
+*with [Gabriel Ahlfeldt](https://www.ahlfeldt.com){target="_blank"}, Stephan Heblich & Tobias Seidel*
+
+[[Discussion Paper]](https://github.com/Ahlfeldt/DPs/blob/main/GA_SH_TS_FY_-_Productivity.pdf){target="_blank"} &ensp;[[BSoE Insight Piece]](https://berlinschoolofeconomics.de/insight/the-price-of-productivity){target="_blank"} &ensp;[[Toolkit]](https://github.com/Ahlfeldt/AHSY-toolkit){target="_blank"} &ensp;[[Germany Commercial Rent Index]](https://github.com/Ahlfeldt/AHSY-toolkit/tree/main/APPLICATIONS/GERMANY/DATA){target="_blank"}
 
 *We construct a new micro-geographic commercial rent index for Germany to study the capitalization of agglomeration economies into floor space prices. In large local labor markets, commercial rents decline by \hl{\largellmGradient}\% per kilometer from the central business district, compared to 13\% for residential rents, reflecting stronger agglomeration benefits at the center. Commercial rents in central business districts increase with local labor market size at an elasticity of 15\%, implying that wage responses capture only about half of the agglomeration effect on total factor productivity.*
