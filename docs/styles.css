@@ -23,3 +23,13 @@ details > p {
 details {
   margin-bottom: 1.5rem;
 }
+
+/* Responsive map layout: side by side on desktop, stacked on mobile */
+@media (max-width: 768px) {
+  .quarto-layout-row {
+    flex-direction: column !important;
+  }
+  .quarto-layout-cell {
+    width: 100% !important;
+  }
+}

@@ -4,16 +4,13 @@ project:
   resources:
     - cv/cv_fan_yin.pdf
     - files/favicon.png
+    - papers/
 
 website:
   title: "Fan Yin"
   favicon: "files/favicon.png"
   search: false
-  google-analytics: 
-    tracking-id: "G-ZRYLHTQ3PF"
-    storage: none
-    
-
+  google-analytics: "G-J7ZMYNCBPC"
   navbar:
     left:
       - text: Home  
