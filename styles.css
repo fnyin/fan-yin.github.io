@@ -26,10 +26,12 @@ details {
 
 /* Navbar logo size */
 .navbar-logo {
-  height: 36px;
+  height: 30px;
   width: auto;
-  margin-left: 16px;
-  margin-right: 8px;
+}
+
+.navbar-brand {
+  padding-left: 1rem;
 }
 
 /* Responsive map layout: side by side on desktop, stacked on mobile */
